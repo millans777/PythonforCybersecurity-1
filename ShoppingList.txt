@@ -1,6 +1,4 @@
 Milk
 Break
 Bananas
-Eggs
-Corn
-potato chips
+
